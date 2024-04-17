@@ -6,6 +6,7 @@ using System.Text;
 
 namespace scraper_api.Controllers
 {
+    //Commit inicial
     [ApiController]
     [Route("[controller]")]
     public class HomeController : ControllerBase
